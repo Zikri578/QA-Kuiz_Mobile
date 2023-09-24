@@ -8,4 +8,4 @@ Link Video :
 - Video 1 (Test Case 1) = https://drive.google.com/file/d/1MquCoxhyHxNIpe23G6bWeoFqIPclj6h0/view?usp=sharing
 - Video 2 (Test Case 2) = https://drive.google.com/file/d/1dJ_WztQepa70Ai4hCCgd8lSbRSybUUWD/view?usp=sharing
 
-Post LinkedIn : 
+Post LinkedIn : https://www.linkedin.com/posts/activity-7111752182231703552-Z5gy?utm_source=share&utm_medium=member_desktop

@@ -7,3 +7,5 @@ Membuat mobile automation test pada aplikasi instagram
 Link Video : 
 - Video 1 (Test Case 1) =
 - Video 2 (Test Case 2) = 
+
+Post LinkedIn : 
